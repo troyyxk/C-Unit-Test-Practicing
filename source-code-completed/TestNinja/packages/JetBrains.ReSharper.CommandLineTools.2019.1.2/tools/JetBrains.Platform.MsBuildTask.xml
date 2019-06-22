@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JetBrains.Platform.MsBuildTask</name>
+    </assembly>
+    <members>
+        <member name="M:JetBrains.Platform.MsBuildTask.BuildEngine.BuildController`2.ExecuteBuildAsync(Microsoft.Build.Evaluation.Project,System.Collections.Generic.Dictionary{System.String,System.String},JetBrains.Platform.MsBuildTask.BuildEngine.IBuildTargets,`1,System.Action{JetBrains.Platform.MsBuildTask.BuildEngine.BuildResult})">
+            <summary>
+            Builds specified project for all target frameworks inside
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.BuildEngine.BuildController`2.ExecuteTarget(Microsoft.Build.Evaluation.Project,System.String,`1,System.Action{JetBrains.Platform.MsBuildTask.BuildEngine.BuildResult})">
+            <summary>
+            Executes custom target under the specified project WITHOUT specifying a 'TargetFramework' property
+            </summary>
+        </member>
+        <member name="T:JetBrains.Platform.MsBuildTask.BuildEngine.ProjectEventsMatcher">
+            <summary>
+            Matches MsBuild events and tries to find a specific MsBuild event for the project
+              because MsBuild can start building different project files (and send many events) during the one submition
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.ProjectModel.Configurations.DotNetProjectManager.GetPropertyGroup(JetBrains.Platform.MsBuildTask.Models.RdProjectConfiguration)">
+            <summary>
+            Find property group for specified configuration and platform
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.ProjectModel.Configurations.DotNetProjectManager.GetOrCreatePropertyGroup(JetBrains.Platform.MsBuildTask.Models.RdProjectConfiguration)">
+            <summary>
+            Find or create a property group for specified configuration and platform
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.ProjectModel.Configurations.DotNetProjectManager.GetLastImportedPropertyValue(Microsoft.Build.Evaluation.ProjectProperty)">
+            <summary>
+            Return a last imported property value during evaluation, just before overriding in the project file (if exists)
+            Allows us remove properties from the project file if possible 
+            </summary>
+        </member>
+        <member name="T:JetBrains.Platform.MsBuildTask.ProjectModel.ProjectModelBinder">
+            <summary>
+            Binds MsBuild project to protocol model
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.ProjectModel.ProjectItemUtil.IsFromTopImports(Microsoft.Build.Evaluation.ProjectItem)">
+            <summary>
+            Returns true if the item was imported from SDK or one of the most top project imports (transitive)
+            </summary>
+        </member>
+        <member name="T:JetBrains.Platform.MsBuildTask.ProjectModel.ProjectModelEventsConsumer.ItemId">
+            <summary>
+            TaskId and TargetId are unique within ProjectContextId
+            It is important when we build in parralell on different nodes
+            </summary>
+        </member>
+        <member name="T:JetBrains.Platform.MsBuildTask.Utils.MsBuildPath">
+            <summary>
+            Light version of FileSystemPath for MsBuild task
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.Utils.PathSeparatorUtil.EnsureProjectFileSeparators(System.String)">
+            <summary>
+            Ensure we have 'project-style' path separators
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.Utils.PathSeparatorUtil.EnsureOperationSystemSeparators(System.String)">
+            <summary>
+            Ensure we have 'OS' path separators
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.Utils.PathSeparatorUtil.GetName(Microsoft.Build.Evaluation.Project)">
+            <summary>
+            Returns project name
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.Utils.PathSeparatorUtil.Equals(System.String,System.String)">
+            <summary>
+            Compares parameters ignoring path separators
+            </summary>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.Utils.ProjectTypeGuidGuesser.GetWellKnownProjectTypeGuid(System.String)">
+            <summary>
+            Tries to guess project type guid by project filename.
+            </summary>
+            <remarks>
+              CAVEATS! Doesn't know about many project types so should be used only if ProjectTypeGuids has not been specified explicitly!
+              But should be used before detecting project type guid based on DefaultProjectTypeGuid property because latter knows only about C#/VB!
+            </remarks>
+            <returns>Guessed guid in "MS"-format ({XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}). <c>null</c> for unknown projects (project extensions)</returns>
+        </member>
+        <member name="M:JetBrains.Platform.MsBuildTask.Utils.TopImportsFinder.Collect(Microsoft.Build.Evaluation.Project)">
+            <summary>
+            Collect all top imports (imports BEFORE the first PropertyGroup element)
+            </summary>
+        </member>
+    </members>
+</doc>

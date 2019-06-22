@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JetBrains.Platform.RdProtocol</name>
+    </assembly>
+    <members>
+        <member name="P:JetBrains.Rider.Model.CodeLensEntryBase.ProviderId">
+            <summary>
+            The provider ID of this entry
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensEntryBase.Icon">
+            <summary>
+            Icon to show near this entry in editor
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensEntryBase.LongPresentation">
+            <summary>
+            The text in 'More' menu
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensEntryBase.ExtraActions">
+            <summary>
+            Extra actions for this lens
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensEntryExtraActionModel.DisplayText">
+            <summary>
+            Text that will be displayed in the UI
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensEntryExtraActionModel.ActionId">
+            <summary>
+            Action ID passed to provider when this action is invoked. null for non-clicable line
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensSettingsModel.Providers">
+            <summary>
+            Code Lens providers available on this backend. Key is the unique ID of the provider - settings are tied to it
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensSettingsModel.ShowUnavailableLenses">
+            <summary>
+            Show SWEA-dependent lenses if SWEA if disabled
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensSettingsModel.ProvidersLoaded">
+            <summary>
+            Shows if all providers are loaded
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.CodeLensAnchorKind.Top">
+            <summary>
+            Above the target range
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.CodeLensAnchorKind.Right">
+            <summary>
+            After end of line with target range
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.CodeLensAnchorKind.NearScroll">
+            <summary>
+            On the same line as target range, near the scrollbar
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.CodeLensAnchorKind.EmptySpace">
+            <summary>
+            In any empty space near the target range
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.CodeLensAnchorKind.Default">
+            <summary>
+            Use the global default value from settings
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensExtraActionClickedArguments.EditableEntity">
+            <summary>
+            The document in which an extra action was clicked
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensExtraActionClickedArguments.Range">
+            <summary>
+            The range on which the clicked lens resides
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensExtraActionClickedArguments.ActionId">
+            <summary>
+            The action that was clicked
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensPopupModel.Control">
+            <summary>
+            The control to show in a popup
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensPopupModel.EditableEntity">
+            <summary>
+            The document in which to show the popup
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensPopupModel.Range">
+            <summary>
+            The range of the popup
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderClickedArguments.EditableEntity">
+            <summary>
+            The document in which a lens is clicked
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderClickedArguments.Range">
+            <summary>
+            The range on which the clicked lens resides
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.DisplayName">
+            <summary>
+            User-visible provider name
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.OrderingConstraints">
+            <summary>
+            Ordering constraints; these will be used when initially composing lens list of the user
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.Anchor">
+            <summary>
+            Default anchor
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.IsEnabled">
+            <summary>
+            Whether or not this provider is enabled by the user. Will be false if Code Lens is disabled
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.Clicked">
+            <summary>
+            Fired when this entry is clicked in editor or 'More' menu
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.ExtraActionClicked">
+            <summary>
+            Fired when an extra action is clicked on a lens
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeLensProviderModel.Popup">
+            <summary>
+            Shows a popup when set
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeModel.NavigateTo">
+            <summary>
+            Receives the ID of a node and navigates to it in the editor, transferring focus to it if necessary
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureNavigateTo.Node">
+            <summary>
+            The ID (CodeStructureTreeNode.id) of a node
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureNavigateTo.RequestFocus">
+            <summary>
+            If true, transfer focus to the editor
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.Id">
+            <summary>
+            ID of the element. Used in navigateTo() and in RdFileStructureConstant.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.Children">
+            <summary>
+            List of indices in treeNodes array of the children of this node.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.Navigable">
+            <summary>
+            Whether the Navigate and Navigate to Source actions are enabled for this node.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.Offset">
+            <summary>
+            Start offset of the element represented by this node.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.EndOffset">
+            <summary>
+            End offset of the element represented by this node.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.Name">
+            <summary>
+            Text to show in the structure view tree for this node.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.Icon">
+            <summary>
+            Icon to show in the structure view tree for this node.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.CodeStructureTreeNode.DeclarationRange">
+            <summary>
+            Text range that defines declaration part of this node
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.DotTraceHost.ObsoleteProfilingConfiguration">
+            <summary>
+            See ActiveProfileConfiguration property
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdFindUsagesSession.Title">
+            <summary>
+            The title of the tab displaying the find usages results
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdFindUsagesSession.Usages">
+            <summary>
+            The usages displayed in the tab
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageList.Items">
+            <summary>
+            List of batches of usages
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageList.NavigateTo">
+            <summary>
+            Navigates to the usage with the given index
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageList.UpdateItem">
+            <summary>
+            Called to check whether a usage is still valid. Takes index (RdUsageBase.index) of element to check, returns true if valid, false otherwise
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageNavigationData.Index">
+            <summary>
+            Index (RdUsageBase.index) of the element to navigate to
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageNavigationData.RequestFocus">
+            <summary>
+            Whether the editor or view in which the element is opened should be focused
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTarget.Index">
+            <summary>
+            Index of usage target in list
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTarget.Name">
+            <summary>
+            The name to show in the usages view
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTarget.IsValid">
+            <summary>
+            Whether the usage target is valid (the corresponding element is still in the source code
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTarget.Icon">
+            <summary>
+            The icon for the usage target
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTargetList.Title">
+            <summary>
+            Title of the element type being searched
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTargetList.NavigateTo">
+            <summary>
+            Navigates to the target with the given index
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTargetNavigationData.Index">
+            <summary>
+            Index (RdUsageTarget.index) of the element to navigate to
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.RdUsageTargetNavigationData.RequestFocus">
+            <summary>
+            Whether the editor or view in which the element is opened should be focused
+            </summary>
+        </member>
+        <member name="M:JetBrains.Rider.Model.Notifications.NotificationsModel.Notification(JetBrains.Rider.Model.Notifications.NotificationModel)">
+            <summary>
+            Allows the backend to show a notification on the frontend
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.NotificationsModel.MessageBox">
+            <summary>
+            Allows the backend to show a message box on the frontend
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.NotificationsModel.Tasks">
+            <summary>
+            Allows the backend to report a background task to the frontend
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.MessageBoxModel.Message">
+            <summary>
+            The text displayed in the message box
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.MessageBoxModel.Caption">
+            <summary>
+            The title of the message box
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.MessageBoxModel.Type">
+            <summary>
+            The buttons shown in the message box
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.NotificationModel.Title">
+            <summary>
+            The title of the notification box
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.NotificationModel.Message">
+            <summary>
+            The text displayed in the notification box
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.NotificationModel.ShowPopup">
+            <summary>
+            If true, the notification is displayed to the user. If false, it's only written to the log.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.Notifications.NotificationModel.Type">
+            <summary>
+            The severity of the notification
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.ImplementationViewSessionModel.SearchDeep">
+            <summary>
+            False for Quick Definition, true for Show Siblings
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.ImplementationViewSessionModel.AlwaysIncludeSelf">
+            <summary>
+            True for Quick Definition, false for Show Siblings
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.ImplementationViewSessionModel.Text">
+            <summary>
+            Shown in the title of the show implementations popup
+            </summary>
+        </member>
+        <member name="M:JetBrains.Rider.Model.CompletionSessionModel.CompletionItems(JetBrains.Rider.Model.CompletionList)">
+            <summary>
+            Returns the next batch of completion items produced by the backend
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.EditableEntity.CompareAllTextTask">
+            <summary>
+            For diagnostic purposes, returns backend document text.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeAbstractText.ShortcutIndex">
+            <summary>
+            For accelerators to work, targetId should be specified
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeAbstractText.Target">
+            <summary>
+            ControlId of the control associated with the label with shortcut
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeComboBox.Settings">
+            <summary>
+            todo
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeControl.ControlId">
+            <summary>
+            Needed for accelerators to work and for search
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeControl.Visible">
+            <summary>
+            Warning: currently doesn't work as expected.
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeControlWithValidation.ValidationStyle">
+            <summary>
+            Questionable property. Defines how error should look for current control
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeControlWithValidation.HandledByParent">
+            <summary>
+            Defines if this control is inside tree (or any control which will handle validation of control by itself)
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeControlWithValidation.Revalidate">
+            <summary>
+            This property forces control to revalidate all rules for it. Better do not call explicitly
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeDialog.LayoutPersistenceMode">
+            <summary>
+            Not implemented in Swing frontend yet
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeDialog.ExtraFooterContent">
+            <summary>
+            Not implemented in Swing frontend yet
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeLabel.Settings">
+            <summary>
+            specifies common text style (font, size)
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeResharperAction.ResharperActionGroupId">
+            <summary>
+            Not implemented in WPF frontend yet
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeResharperAction.ResharperActionId">
+            <summary>
+            Not implemented in WPF frontend yet
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeRichText.Settings">
+            <summary>
+            specifies common text style (font, size)
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeTextBoxSettings.UpdateSourceTrigger">
+            <summary>
+            Not implemented in Swing frontend yet
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.BeToolbar.Content">
+            <summary>
+            placed inside because sometimes placement of toolbar depends on OS
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.UIAutomation.BeToolbarStyle.DEFAULT">
+            <summary>
+            Icon only
+            </summary>
+        </member>
+        <member name="F:JetBrains.Rider.Model.UIAutomation.BeToolbarStyle.HYBRID">
+            <summary>
+            Icon only in IDEA and Icon+Text in VS
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.ValidationResult.State">
+            <summary>
+            Defines validation result state
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.ValidationResult.ResultMessage">
+            <summary>
+            Error text, empty when passed
+            </summary>
+        </member>
+        <member name="P:JetBrains.Rider.Model.UIAutomation.ValidationResult.Icon">
+            <summary>
+            Icon (currently is shown only in WPF control
+            </summary>
+        </member>
+    </members>
+</doc>
