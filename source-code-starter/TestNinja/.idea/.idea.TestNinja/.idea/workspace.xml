@@ -65,16 +65,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+            <state relative-caret-position="83">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <marker date="1561270395316" expanded="true" signature="6:87" ph="..." />
-                <marker date="1561270395316" expanded="true" signature="118:1321" ph="{...}" />
-                <marker date="1561270395316" expanded="true" signature="164:1319" ph="{...}" />
-                <marker date="1561270395316" expanded="true" signature="247:444" ph="{...}" />
-                <marker date="1561270395316" expanded="true" signature="539:736" ph="{...}" />
-                <marker date="1561270395316" expanded="true" signature="833:1030" ph="{...}" />
-                <marker date="1561270395316" expanded="true" signature="1116:1313" ph="{...}" />
+                <marker date="1561306010618" expanded="true" signature="6:87" ph="..." />
+                <marker date="1561306010618" expanded="true" signature="126:909" ph="{...}" />
+                <marker date="1561306010618" expanded="true" signature="172:907" ph="{...}" />
+                <marker date="1561306010618" expanded="true" signature="267:319" ph="{...}" />
+                <marker date="1561306010618" expanded="true" signature="416:579" ph="{...}" />
+                <marker date="1561306010618" expanded="true" signature="427:466" ph="/* Arrange ... */" />
+                <marker date="1561306010618" expanded="true" signature="754:900" ph="{...}" />
+                <marker date="1561306010618" expanded="true" signature="761:800" ph="/* Arrange ... */" />
+                <marker date="1561306010618" expanded="true" signature="912:2773" ph="/* [Test] ... */" />
               </folding>
             </state>
           </provider>
@@ -155,10 +157,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-170" />
-    <option name="y" value="950" />
-    <option name="width" value="1950" />
-    <option name="height" value="2075" />
+    <option name="x" value="2600" />
+    <option name="y" value="770" />
+    <option name="width" value="1248" />
+    <option name="height" value="1190" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -253,7 +255,7 @@
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
       <workItem from="1561240891185" duration="3673000" />
-      <workItem from="1561250569718" duration="4683000" />
+      <workItem from="1561250569718" duration="5845000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -273,7 +275,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57072000" />
+    <option name="totallyTimeSpent" value="58234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,7 +290,7 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47709924" visible="true" weight="0.31057563" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47709924" visible="true" weight="0.10307898" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.52290076" side_tool="true" weight="0.31437436" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -565,16 +567,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        <state relative-caret-position="83">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <marker date="1561270395316" expanded="true" signature="6:87" ph="..." />
-            <marker date="1561270395316" expanded="true" signature="118:1321" ph="{...}" />
-            <marker date="1561270395316" expanded="true" signature="164:1319" ph="{...}" />
-            <marker date="1561270395316" expanded="true" signature="247:444" ph="{...}" />
-            <marker date="1561270395316" expanded="true" signature="539:736" ph="{...}" />
-            <marker date="1561270395316" expanded="true" signature="833:1030" ph="{...}" />
-            <marker date="1561270395316" expanded="true" signature="1116:1313" ph="{...}" />
+            <marker date="1561306010618" expanded="true" signature="6:87" ph="..." />
+            <marker date="1561306010618" expanded="true" signature="126:909" ph="{...}" />
+            <marker date="1561306010618" expanded="true" signature="172:907" ph="{...}" />
+            <marker date="1561306010618" expanded="true" signature="267:319" ph="{...}" />
+            <marker date="1561306010618" expanded="true" signature="416:579" ph="{...}" />
+            <marker date="1561306010618" expanded="true" signature="427:466" ph="/* Arrange ... */" />
+            <marker date="1561306010618" expanded="true" signature="754:900" ph="{...}" />
+            <marker date="1561306010618" expanded="true" signature="761:800" ph="/* Arrange ... */" />
+            <marker date="1561306010618" expanded="true" signature="912:2773" ph="/* [Test] ... */" />
           </folding>
         </state>
       </provider>
