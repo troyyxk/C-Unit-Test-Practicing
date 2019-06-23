@@ -19,3 +19,24 @@ C:\Users\xingk\Desktop\programmming_language_learning\C# Debugging Practice\sour
 C:\Users\xingk\Desktop\programmming_language_learning\C# Debugging Practice\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.csproj.CopyComplete
 C:\Users\xingk\Desktop\programmming_language_learning\C# Debugging Practice\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.dll
 C:\Users\xingk\Desktop\programmming_language_learning\C# Debugging Practice\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.pdb
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.UnitTests.deps.json
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.UnitTests.runtimeconfig.json
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.UnitTests.runtimeconfig.dev.json
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.UnitTests.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.UnitTests.pdb
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\EntityFramework.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.pdb
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\TestNinja.dll.config
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp2.1\EntityFramework.xml
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.csprojAssemblyReference.cache
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.AssemblyInfoInputs.cache
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.AssemblyInfo.cs
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.csproj.CopyComplete
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.dll
+C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\netcoreapp2.1\TestNinja.UnitTests.pdb

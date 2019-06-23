@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\xingk\\Desktop\\programmming_language_learning\\C# Debugging Practice\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+    "projectUniqueName": "C:\\Users\\P1246A1\\OneDrive - Ceridian HCM Inc\\Desktop\\C-Unit-Test-Practicing\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
     "projectName": "TestNinja.UnitTests",
-    "projectPath": "C:\\Users\\xingk\\Desktop\\programmming_language_learning\\C# Debugging Practice\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
-    "outputPath": "C:\\Users\\xingk\\Desktop\\programmming_language_learning\\C# Debugging Practice\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\obj\\",
+    "projectPath": "C:\\Users\\P1246A1\\OneDrive - Ceridian HCM Inc\\Desktop\\C-Unit-Test-Practicing\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+    "outputPath": "C:\\Users\\P1246A1\\OneDrive - Ceridian HCM Inc\\Desktop\\C-Unit-Test-Practicing\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -19,8 +19,8 @@
     "frameworks": {
       "netcoreapp2.1": {
         "projectReferences": {
-          "C:\\Users\\xingk\\Desktop\\programmming_language_learning\\C# Debugging Practice\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj": {
-            "projectPath": "C:\\Users\\xingk\\Desktop\\programmming_language_learning\\C# Debugging Practice\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj"
+          "C:\\Users\\P1246A1\\OneDrive - Ceridian HCM Inc\\Desktop\\C-Unit-Test-Practicing\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj": {
+            "projectPath": "C:\\Users\\P1246A1\\OneDrive - Ceridian HCM Inc\\Desktop\\C-Unit-Test-Practicing\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj"
           }
         }
       }

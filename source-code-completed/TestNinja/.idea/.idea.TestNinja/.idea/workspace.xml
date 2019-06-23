@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="" />
+    <list default="true" id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/.idea/.idea.TestNinja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/ErrorLoggerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/ErrorLoggerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.UnitTests.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/TestNinja.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.1/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja.UnitTests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/bin/Debug/TestNinja.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../source-code-starter/TestNinja/TestNinja/obj/Debug/TestNinja.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,35 +46,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="75">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="51" />
               <folding>
-                <marker date="1508258586000" expanded="true" signature="6:90" ph="..." />
-                <marker date="1508258586000" expanded="true" signature="119:3692" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="157:1946" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="588:778" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="851:1940" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="981:1930" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="1459:1698" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="1734:1916" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="1981:2004" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2042:2135" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2186:2305" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2279:2299" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2332:2407" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2434:2680" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2509:2529" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2615:2674" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2710:2748" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="2787:3135" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="3165:3356" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="3401:3690" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="3493:3513" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="3594:3614" ph="{...}" />
-                <marker date="1508258586000" expanded="true" signature="3664:3684" ph="{...}" />
+                <marker date="1561317224395" expanded="false" signature="6:90" ph="..." />
+                <marker date="1561317224395" expanded="true" signature="119:3692" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="157:1946" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="588:778" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="851:1940" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="981:1930" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="1459:1698" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="1734:1916" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="1981:2004" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2042:2135" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2186:2305" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2279:2299" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2332:2407" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2434:2680" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2509:2529" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2615:2674" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2710:2748" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="2787:3135" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="3165:3356" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="3401:3690" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="3493:3513" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="3594:3614" ph="{...}" />
+                <marker date="1561317224395" expanded="true" signature="3664:3684" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1561317224389" expanded="true" signature="48:541" ph="{...}" />
+                <marker date="1561317224389" expanded="true" signature="79:539" ph="{...}" />
+                <marker date="1561317224389" expanded="true" signature="233:533" ph="{...}" />
+                <marker date="1561317224389" expanded="true" signature="419:467" ph="/* Write the log to a storage ... */" />
               </folding>
             </state>
           </provider>
@@ -50,25 +98,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1875">
-              <caret line="141" selection-start-line="141" selection-end-line="141" />
+            <state relative-caret-position="257">
+              <caret line="133" column="20" lean-forward="true" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
               <folding>
-                <marker date="1508258540000" expanded="false" signature="6:125" ph="..." />
-                <marker date="1508258540000" expanded="true" signature="164:5466" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="225:5464" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="637:1639" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="928:972" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="1735:1966" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="2075:2387" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="2502:2813" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="2923:3233" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="3320:3442" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="3551:3728" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="3844:4019" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="4134:4310" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="4405:4848" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="4899:5162" ph="{...}" />
-                <marker date="1508258540000" expanded="true" signature="5218:5449" ph="{...}" />
+                <marker date="1561317224299" expanded="false" signature="6:125" ph="..." />
+                <marker date="1561317224299" expanded="true" signature="164:5466" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="225:5464" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="637:1639" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="928:972" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="1735:1966" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="2075:2387" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="2502:2813" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="2923:3233" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="3320:3442" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="3551:3728" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="3844:4019" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="4134:4310" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="4405:4848" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="4899:5162" ph="{...}" />
+                <marker date="1561317224299" expanded="true" signature="5218:5449" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <marker date="1561318248256" expanded="false" signature="6:66" ph="..." />
+                <marker date="1561318248256" expanded="true" signature="97:1094" ph="{...}" />
+                <marker date="1561318248256" expanded="true" signature="151:1092" ph="{...}" />
+                <marker date="1561318248256" expanded="true" signature="233:412" ph="{...}" />
+                <marker date="1561318248256" expanded="true" signature="578:735" ph="{...}" />
+                <marker date="1561318248256" expanded="true" signature="810:1077" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,16 +142,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="482">
               <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
               <folding>
-                <marker date="1508253996000" expanded="false" signature="6:76" ph="..." />
-                <marker date="1508253996000" expanded="true" signature="105:1399" ph="{...}" />
-                <marker date="1508253996000" expanded="true" signature="141:249" ph="{...}" />
-                <marker date="1508253996000" expanded="true" signature="294:1397" ph="{...}" />
-                <marker date="1508253996000" expanded="true" signature="402:1382" ph="{...}" />
-                <marker date="1508253996000" expanded="true" signature="501:764" ph="{...}" />
-                <marker date="1508253996000" expanded="true" signature="1028:1206" ph="{...}" />
+                <marker date="1561317224393" expanded="false" signature="6:76" ph="..." />
+                <marker date="1561317224393" expanded="true" signature="105:1399" ph="{...}" />
+                <marker date="1561317224393" expanded="true" signature="141:249" ph="{...}" />
+                <marker date="1561317224393" expanded="true" signature="294:1397" ph="{...}" />
+                <marker date="1561317224393" expanded="true" signature="402:1382" ph="{...}" />
+                <marker date="1561317224393" expanded="true" signature="501:764" ph="{...}" />
+                <marker date="1561317224393" expanded="true" signature="1028:1206" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -98,11 +163,11 @@
             <state relative-caret-position="45">
               <caret line="5" column="40" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="40" />
               <folding>
-                <marker date="1508252436000" expanded="false" signature="6:30" ph="..." />
-                <marker date="1508252436000" expanded="true" signature="59:919" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="102:212" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="271:917" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="381:902" ph="{...}" />
+                <marker date="1561317224397" expanded="false" signature="6:30" ph="..." />
+                <marker date="1561317224397" expanded="true" signature="59:919" ph="{...}" />
+                <marker date="1561317224397" expanded="true" signature="102:212" ph="{...}" />
+                <marker date="1561317224397" expanded="true" signature="271:917" ph="{...}" />
+                <marker date="1561317224397" expanded="true" signature="381:902" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,14 +179,14 @@
             <state relative-caret-position="285">
               <caret line="24" column="32" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="32" />
               <folding>
-                <marker date="1508252436000" expanded="false" signature="6:66" ph="..." />
-                <marker date="1508252436000" expanded="true" signature="95:1259" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="135:749" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="243:743" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="783:829" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="872:992" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="918:986" ph="{...}" />
-                <marker date="1508252436000" expanded="true" signature="1018:1257" ph="{...}" />
+                <marker date="1561317224392" expanded="false" signature="6:66" ph="..." />
+                <marker date="1561317224392" expanded="true" signature="95:1259" ph="{...}" />
+                <marker date="1561317224392" expanded="true" signature="135:749" ph="{...}" />
+                <marker date="1561317224392" expanded="true" signature="243:743" ph="{...}" />
+                <marker date="1561317224392" expanded="true" signature="783:829" ph="{...}" />
+                <marker date="1561317224392" expanded="true" signature="872:992" ph="{...}" />
+                <marker date="1561317224392" expanded="true" signature="918:986" ph="{...}" />
+                <marker date="1561317224392" expanded="true" signature="1018:1257" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -130,47 +195,47 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/StatementGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/BookingHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/BookingHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/StatementGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -184,7 +249,6 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
@@ -217,13 +281,15 @@
         <option value="$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="55" />
-    <option name="width" value="968" />
-    <option name="height" value="595" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -235,6 +301,31 @@
     <panes>
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestNinja" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestNinja" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestNinja" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestNinja" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestNinja" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Fundamentals" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestNinja" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestNinja.UnitTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
@@ -244,6 +335,9 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunDashboard">
@@ -301,6 +395,7 @@
       <workItem from="1561229846401" duration="652000" />
       <workItem from="1561230573928" duration="415000" />
       <workItem from="1561231079523" duration="281000" />
+      <workItem from="1561317856338" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -320,7 +415,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49990000" />
+    <option name="totallyTimeSpent" value="51002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,10 +427,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47709924" visible="true" weight="0.07630522" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47709924" visible="true" weight="0.11347896" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.52290076" side_tool="true" weight="0.31437436" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,7 +440,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.33933517" />
+      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.33831376" />
       <window_info anchor="bottom" id="Unit Tests" order="8" weight="0.5458015" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32824427" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -449,20 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -686,71 +767,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNinja/Mocking/HouseKeeperService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="75">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="51" />
           <folding>
-            <marker date="1508258586000" expanded="true" signature="6:90" ph="..." />
-            <marker date="1508258586000" expanded="true" signature="119:3692" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="157:1946" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="588:778" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="851:1940" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="981:1930" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="1459:1698" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="1734:1916" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="1981:2004" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2042:2135" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2186:2305" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2279:2299" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2332:2407" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2434:2680" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2509:2529" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2615:2674" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2710:2748" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="2787:3135" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="3165:3356" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="3401:3690" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="3493:3513" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="3594:3614" ph="{...}" />
-            <marker date="1508258586000" expanded="true" signature="3664:3684" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
-          <folding>
-            <marker date="1508258540000" expanded="false" signature="6:125" ph="..." />
-            <marker date="1508258540000" expanded="true" signature="225:5464" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="637:1639" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="928:972" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="1735:1966" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="2075:2387" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="2502:2813" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="2923:3233" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="3320:3442" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="3551:3728" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="3844:4019" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="4134:4310" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="4405:4848" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="4899:5162" ph="{...}" />
-            <marker date="1508258540000" expanded="true" signature="5218:5449" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding>
-            <marker date="1508253996000" expanded="false" signature="6:76" ph="..." />
-            <marker date="1508253996000" expanded="true" signature="141:249" ph="{...}" />
-            <marker date="1508253996000" expanded="true" signature="294:1397" ph="{...}" />
-            <marker date="1508253996000" expanded="true" signature="402:1382" ph="{...}" />
-            <marker date="1508253996000" expanded="true" signature="501:764" ph="{...}" />
-            <marker date="1508253996000" expanded="true" signature="1028:1206" ph="{...}" />
+            <marker date="1561317224395" expanded="false" signature="6:90" ph="..." />
+            <marker date="1561317224395" expanded="true" signature="119:3692" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="157:1946" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="588:778" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="851:1940" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="981:1930" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="1459:1698" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="1734:1916" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="1981:2004" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2042:2135" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2186:2305" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2279:2299" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2332:2407" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2434:2680" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2509:2529" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2615:2674" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2710:2748" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="2787:3135" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="3165:3356" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="3401:3690" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="3493:3513" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="3594:3614" ph="{...}" />
+            <marker date="1561317224395" expanded="true" signature="3664:3684" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -760,10 +802,11 @@
         <state relative-caret-position="45">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="40" />
           <folding>
-            <marker date="1508252436000" expanded="false" signature="6:30" ph="..." />
-            <marker date="1508252436000" expanded="true" signature="102:212" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="271:917" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="381:902" ph="{...}" />
+            <marker date="1561317224397" expanded="false" signature="6:30" ph="..." />
+            <marker date="1561317224397" expanded="true" signature="59:919" ph="{...}" />
+            <marker date="1561317224397" expanded="true" signature="102:212" ph="{...}" />
+            <marker date="1561317224397" expanded="true" signature="271:917" ph="{...}" />
+            <marker date="1561317224397" expanded="true" signature="381:902" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -773,13 +816,83 @@
         <state relative-caret-position="285">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="32" />
           <folding>
-            <marker date="1508252436000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1508252436000" expanded="true" signature="135:749" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="243:743" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="783:829" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="872:992" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="918:986" ph="{...}" />
-            <marker date="1508252436000" expanded="true" signature="1018:1257" ph="{...}" />
+            <marker date="1561317224392" expanded="false" signature="6:66" ph="..." />
+            <marker date="1561317224392" expanded="true" signature="95:1259" ph="{...}" />
+            <marker date="1561317224392" expanded="true" signature="135:749" ph="{...}" />
+            <marker date="1561317224392" expanded="true" signature="243:743" ph="{...}" />
+            <marker date="1561317224392" expanded="true" signature="783:829" ph="{...}" />
+            <marker date="1561317224392" expanded="true" signature="872:992" ph="{...}" />
+            <marker date="1561317224392" expanded="true" signature="918:986" ph="{...}" />
+            <marker date="1561317224392" expanded="true" signature="1018:1257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1561317224389" expanded="true" signature="48:541" ph="{...}" />
+            <marker date="1561317224389" expanded="true" signature="79:539" ph="{...}" />
+            <marker date="1561317224389" expanded="true" signature="233:533" ph="{...}" />
+            <marker date="1561317224389" expanded="true" signature="419:467" ph="/* Write the log to a storage ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja/Mocking/EmailSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <marker date="1561317224393" expanded="false" signature="6:76" ph="..." />
+            <marker date="1561317224393" expanded="true" signature="105:1399" ph="{...}" />
+            <marker date="1561317224393" expanded="true" signature="141:249" ph="{...}" />
+            <marker date="1561317224393" expanded="true" signature="294:1397" ph="{...}" />
+            <marker date="1561317224393" expanded="true" signature="402:1382" ph="{...}" />
+            <marker date="1561317224393" expanded="true" signature="501:764" ph="{...}" />
+            <marker date="1561317224393" expanded="true" signature="1028:1206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/HouseKeeperServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="133" column="20" lean-forward="true" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+          <folding>
+            <marker date="1561317224299" expanded="false" signature="6:125" ph="..." />
+            <marker date="1561317224299" expanded="true" signature="164:5466" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="225:5464" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="637:1639" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="928:972" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="1735:1966" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="2075:2387" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="2502:2813" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="2923:3233" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="3320:3442" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="3551:3728" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="3844:4019" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="4134:4310" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="4405:4848" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="4899:5162" ph="{...}" />
+            <marker date="1561317224299" expanded="true" signature="5218:5449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1561318248256" expanded="false" signature="6:66" ph="..." />
+            <marker date="1561318248256" expanded="true" signature="97:1094" ph="{...}" />
+            <marker date="1561318248256" expanded="true" signature="151:1092" ph="{...}" />
+            <marker date="1561318248256" expanded="true" signature="233:412" ph="{...}" />
+            <marker date="1561318248256" expanded="true" signature="578:735" ph="{...}" />
+            <marker date="1561318248256" expanded="true" signature="810:1077" ph="{...}" />
           </folding>
         </state>
       </provider>

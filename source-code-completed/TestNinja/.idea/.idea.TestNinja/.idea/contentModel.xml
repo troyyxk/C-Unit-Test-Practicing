@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\xingk\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\xingk\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_TestNinja.-276018794.00" t="ExcludeRecursive" />
-    <e p="C:\Users\xingk\Desktop\programmming_language_learning\C# Debugging Practice\source-code-completed\TestNinja" t="IncludeFlat">
+    <e p="C:\Users\P1246A1\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\P1246A1\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_TestNinja.-114462235.00" t="ExcludeRecursive" />
+    <e p="C:\Users\P1246A1\OneDrive - Ceridian HCM Inc\Desktop\C-Unit-Test-Practicing\source-code-completed\TestNinja" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="TestNinja" t="IncludeRecursive">
         <e p="App.config" t="Include" />
