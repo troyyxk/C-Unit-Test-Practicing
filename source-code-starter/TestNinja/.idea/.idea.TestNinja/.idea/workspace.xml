@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-135">
               <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
               <folding>
                 <marker date="1507305110000" expanded="true" signature="67:483" ph="{...}" />
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <marker date="1561252153383" expanded="false" signature="6:52" ph="..." />
                 <marker date="1561252153383" expanded="true" signature="83:1259" ph="{...}" />
@@ -62,27 +62,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="93">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
               <folding>
-                <marker date="1561306010618" expanded="true" signature="6:87" ph="..." />
-                <marker date="1561306010618" expanded="true" signature="126:909" ph="{...}" />
-                <marker date="1561306010618" expanded="true" signature="172:907" ph="{...}" />
-                <marker date="1561306010618" expanded="true" signature="267:319" ph="{...}" />
-                <marker date="1561306010618" expanded="true" signature="416:579" ph="{...}" />
-                <marker date="1561306010618" expanded="true" signature="427:466" ph="/* Arrange ... */" />
-                <marker date="1561306010618" expanded="true" signature="754:900" ph="{...}" />
-                <marker date="1561306010618" expanded="true" signature="761:800" ph="/* Arrange ... */" />
-                <marker date="1561306010618" expanded="true" signature="912:2773" ph="/* [Test] ... */" />
+                <marker date="1561307948949" expanded="true" signature="6:106" ph="..." />
+                <marker date="1561307948949" expanded="true" signature="145:1556" ph="{...}" />
+                <marker date="1561307948949" expanded="true" signature="191:1554" ph="{...}" />
+                <marker date="1561307948949" expanded="true" signature="286:338" ph="{...}" />
+                <marker date="1561307948949" expanded="true" signature="435:598" ph="{...}" />
+                <marker date="1561307948949" expanded="true" signature="446:485" ph="/* Arrange ... */" />
+                <marker date="1561307948949" expanded="true" signature="793:963" ph="{...}" />
+                <marker date="1561307948949" expanded="true" signature="804:843" ph="/* Arrange ... */" />
+                <marker date="1561307948949" expanded="true" signature="1066:1548" ph="{...}" />
+                <marker date="1561307948949" expanded="true" signature="1078:1117" ph="/* Arrange ... */" />
+                <marker date="1561307948949" expanded="true" signature="1559:3420" ph="/* [Test] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <marker date="1561308586042" expanded="true" signature="6:66" ph="..." />
+                <marker date="1561308586042" expanded="true" signature="97:733" ph="{...}" />
+                <marker date="1561308586042" expanded="true" signature="158:731" ph="{...}" />
+                <marker date="1561308586042" expanded="true" signature="237:613" ph="{...}" />
+                <marker date="1561308586042" expanded="true" signature="395:438" ph="/* Assert ... */" />
+                <marker date="1561308586042" expanded="true" signature="692:725" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
+              <folding>
+                <marker date="1561309957236" expanded="true" signature="6:107" ph="..." />
+                <marker date="1561309957236" expanded="true" signature="138:877" ph="{...}" />
+                <marker date="1561309957236" expanded="true" signature="192:875" ph="{...}" />
+                <marker date="1561309957236" expanded="true" signature="274:488" ph="{...}" />
+                <marker date="1561309957236" expanded="true" signature="655:860" ph="{...}" />
+                <marker date="1561309957236" expanded="true" signature="732:770" ph="/* Act ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>math</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -98,6 +139,8 @@
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -114,9 +157,7 @@
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
@@ -153,13 +194,15 @@
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Reservation.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTest.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2600" />
-    <option name="y" value="770" />
-    <option name="width" value="1248" />
+    <option name="x" value="1382" />
+    <option name="y" value="1025" />
+    <option name="width" value="1745" />
     <option name="height" value="1190" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -255,7 +298,7 @@
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
       <workItem from="1561240891185" duration="3673000" />
-      <workItem from="1561250569718" duration="5845000" />
+      <workItem from="1561250569718" duration="9072000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -275,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58234000" />
+    <option name="totallyTimeSpent" value="61461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,11 +344,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.490458" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="8" sideWeight="0.49933067" visible="true" weight="0.54155123" />
+      <window_info anchor="bottom" id="Unit Tests" order="8" sideWeight="0.49933067" weight="0.54155123" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32824427" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50066936" side_tool="true" weight="0.54155123" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Build" order="12" weight="0.3259362" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.32548475" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Performance Profiler" order="14" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
@@ -364,8 +407,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
     <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
-    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
-    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
     <entry file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
@@ -535,25 +576,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="12" selection-start-line="12" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <marker date="1561252153383" expanded="false" signature="6:52" ph="..." />
-            <marker date="1561252153383" expanded="true" signature="83:1259" ph="{...}" />
-            <marker date="1561252153383" expanded="true" signature="119:1257" ph="{...}" />
-            <marker date="1561252153383" expanded="true" signature="169:189" ph="{...}" />
-            <marker date="1561252153383" expanded="true" signature="314:562" ph="{...}" />
-            <marker date="1561252153383" expanded="true" signature="636:911" ph="{...}" />
-            <marker date="1561252153383" expanded="true" signature="997:1250" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-135">
           <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
           <folding>
             <marker date="1507305110000" expanded="true" signature="67:483" ph="{...}" />
@@ -567,18 +592,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="93">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           <folding>
-            <marker date="1561306010618" expanded="true" signature="6:87" ph="..." />
-            <marker date="1561306010618" expanded="true" signature="126:909" ph="{...}" />
-            <marker date="1561306010618" expanded="true" signature="172:907" ph="{...}" />
-            <marker date="1561306010618" expanded="true" signature="267:319" ph="{...}" />
-            <marker date="1561306010618" expanded="true" signature="416:579" ph="{...}" />
-            <marker date="1561306010618" expanded="true" signature="427:466" ph="/* Arrange ... */" />
-            <marker date="1561306010618" expanded="true" signature="754:900" ph="{...}" />
-            <marker date="1561306010618" expanded="true" signature="761:800" ph="/* Arrange ... */" />
-            <marker date="1561306010618" expanded="true" signature="912:2773" ph="/* [Test] ... */" />
+            <marker date="1561307948949" expanded="true" signature="6:106" ph="..." />
+            <marker date="1561307948949" expanded="true" signature="145:1556" ph="{...}" />
+            <marker date="1561307948949" expanded="true" signature="191:1554" ph="{...}" />
+            <marker date="1561307948949" expanded="true" signature="286:338" ph="{...}" />
+            <marker date="1561307948949" expanded="true" signature="435:598" ph="{...}" />
+            <marker date="1561307948949" expanded="true" signature="446:485" ph="/* Arrange ... */" />
+            <marker date="1561307948949" expanded="true" signature="793:963" ph="{...}" />
+            <marker date="1561307948949" expanded="true" signature="804:843" ph="/* Arrange ... */" />
+            <marker date="1561307948949" expanded="true" signature="1066:1548" ph="{...}" />
+            <marker date="1561307948949" expanded="true" signature="1078:1117" ph="/* Arrange ... */" />
+            <marker date="1561307948949" expanded="true" signature="1559:3420" ph="/* [Test] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1561252153383" expanded="false" signature="6:52" ph="..." />
+            <marker date="1561252153383" expanded="true" signature="83:1259" ph="{...}" />
+            <marker date="1561252153383" expanded="true" signature="119:1257" ph="{...}" />
+            <marker date="1561252153383" expanded="true" signature="169:189" ph="{...}" />
+            <marker date="1561252153383" expanded="true" signature="314:562" ph="{...}" />
+            <marker date="1561252153383" expanded="true" signature="636:911" ph="{...}" />
+            <marker date="1561252153383" expanded="true" signature="997:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <marker date="1561308586042" expanded="true" signature="6:66" ph="..." />
+            <marker date="1561308586042" expanded="true" signature="97:733" ph="{...}" />
+            <marker date="1561308586042" expanded="true" signature="158:731" ph="{...}" />
+            <marker date="1561308586042" expanded="true" signature="237:613" ph="{...}" />
+            <marker date="1561308586042" expanded="true" signature="395:438" ph="/* Assert ... */" />
+            <marker date="1561308586042" expanded="true" signature="692:725" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="77" />
+          <folding>
+            <marker date="1561309957236" expanded="true" signature="6:107" ph="..." />
+            <marker date="1561309957236" expanded="true" signature="138:877" ph="{...}" />
+            <marker date="1561309957236" expanded="true" signature="192:875" ph="{...}" />
+            <marker date="1561309957236" expanded="true" signature="274:488" ph="{...}" />
+            <marker date="1561309957236" expanded="true" signature="655:860" ph="{...}" />
+            <marker date="1561309957236" expanded="true" signature="732:770" ph="/* Act ... */" />
           </folding>
         </state>
       </provider>
